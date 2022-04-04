@@ -1,5 +1,3 @@
-from email.mime import base
-from unittest import result
 from .request_handler import RequestResult, RequestHandler
 
 class ServerHandler:

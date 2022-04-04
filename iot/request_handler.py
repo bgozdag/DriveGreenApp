@@ -1,5 +1,3 @@
-import json
-import re
 import requests
 from enum import Enum
 
